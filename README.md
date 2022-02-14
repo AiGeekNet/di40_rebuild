@@ -9,4 +9,4 @@
 ![3D view back](pictures/3d_view_back.png)
 
 ## known issue:
-Disk 1 and 2 ports are in wrong order.
+Disk 1 and 2 ports are in wrong order. Labels are correct.
